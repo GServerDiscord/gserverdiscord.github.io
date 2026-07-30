@@ -4,7 +4,7 @@ title: Cyborg Noodle Privacy Policy
 permalink: /
 ---
 
-Last Updated: [DATE]
+Last Updated: 07/29/26
 
 This Privacy Policy explains how Cyborg Noodle (referred to as "the Bot", "we", or "us") collects, uses, stores, and protects your data. The Bot is an instance of the open-source [nadeko-bot/nadekobot](https://github.com/nadeko-bot/nadekobot) project with cosmetic theming customizations, hosted independently by the administrators of the Gorillaz Fan Discord server. The Bot operates only in this server.
 
