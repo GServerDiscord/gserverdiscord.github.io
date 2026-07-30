@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Cyborg Noodle Privacy Policy
 permalink: /
 ---
