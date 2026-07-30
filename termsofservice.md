@@ -39,7 +39,7 @@ The Bot is used by server staff to enforce server rules, including issuing warni
 
 ## 6. Privacy
 
-Our collection and use of data is described in the [Privacy Policy](/), which forms part of these Terms.
+Our collection and use of data is described in the [Privacy Policy](/privacy), which forms part of these Terms.
 
 ## 7. Availability and Changes
 
