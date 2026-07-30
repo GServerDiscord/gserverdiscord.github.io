@@ -2,7 +2,6 @@
 layout: page
 title: Cyborg Noodle Privacy Policy
 permalink: /
-theme: jekyll-theme-minimal
 ---
 
 Last Updated: 07/29/26
